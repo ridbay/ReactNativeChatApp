@@ -1,2 +1,0 @@
-# ReactNativeChatApp
-Created with CodeSandbox
